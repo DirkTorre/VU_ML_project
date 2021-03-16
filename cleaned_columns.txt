@@ -1,0 +1,19 @@
+X imdb_title_id 0
+X title 0
+>>>>> deze droppen??  original_title 0
+X year 0
+X date_published 0
+X genre 0
+X duration 0
+X <veel kolommen> country 64
+X language 833
+X director 87
+X writer 1572
+>>>> op einde: production_company 4455
+actors 69
+description 2115
+avg_vote 0
+votes 0
+reviews_from_users 7597
+reviews_from_critics 11797
+ 
